@@ -1,7 +1,7 @@
 # 2023-OpenSource-SW-Idea-Hackathon-Camp
-2023 OpenSource SW Idea Hackathon Camp 💻
 
 2023년 12월 1일 ~ 12월 3일에 개최된 **제 1회 오픈소스 SW 아이디어 해커톤 캠프**의 출품작 **일정 테트리스**입니다.
+
 
 ## 프로젝트 개요
 👩‍💻 개발자 : 김세현, 임정민
@@ -10,10 +10,12 @@
 
 🗓 개발 기간 : 12월 1일 ~ 12월 3일(총 3일)
 
+
 ## 일정 테트리스(Schedule Tetris)
 일정 테트리스는 **시간표 연동**을 통해 **서로의 비어 있는 시간을 공유함**으로써 빠르고 편리하게 약속을 잡을 수 있는 **일정 관리 프로그램**입니다.
 
 기존 일정 관리 애플리케이션 같은 경우에는 타인 일정 열람이 불가능 하거나 일정 자동 연동 기능이 없는 등의 단점이 존재하기 때문에 이를 보완하여 **일정 관련 의사 결정 시간을 단축**하고자 노력하였습니다.
+
 
 ### 기능 소개
 
@@ -63,19 +65,19 @@ Excel 파일로 된 사용자의 수업 시간표가 C:\Users\사용자이름\Do
 
 내보낸 시간표는 해당 Python 코드가 저장된 폴더에 존재합니다.
 
+
 ## 주요 파일 설명
 
 - publicCode.py : 일정 테트리스 프로그램을 실행시키는 메인 파일
 - publicOasis.py : 메인 파일에서 필요한 오아시스 크롤링 코드
-  
+
+
 ## 주의 사항
 
 - 해당 코드를 실행하기 위해서는 디렉토리 경로 설정이 추가로 필요합니다.
 - 해당 프로그램은 Chrome driver를 사용하고 있습니다. 프로그램을 실행하고자 하는 사용자의 컴퓨터 Chrome 버전과 동일한 Chrome driver를 사용해야 합니다. 버전 확인 뒤에 [Chrome Driver 설치](https://github.com/GoogleChromeLabs/chrome-for-testing/blob/main/data/latest-versions-per-milestone-with-downloads.json)에서 설치 가능합니다. 
 
-## 기여자
-<a href="https://github.com/JeongMinIsBest/2023-OpenSource-SW-Idea-Hackathon-Camp/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=JeongMinIsBest/2023-OpenSource-SW-Idea-Hackathon-Camp" />
-</a>
 
- &nbsp;&nbsp;[임정민](https://github.com/JeongMinIsBest)&nbsp;&nbsp;&nbsp;&nbsp;[김세현](https://github.com/Sehyon1837)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+## 기여자
+
+&nbsp;&nbsp;[임정민](https://github.com/JeongMinIsBest)&nbsp;&nbsp;&nbsp;&nbsp;[김세현](https://github.com/Sehyon1837)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
