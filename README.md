@@ -1,4 +1,4 @@
-![전북고속 01임 0822_일정 테트리스 발표 자료_page-0007](https://github.com/user-attachments/assets/fe90186a-a5bf-4534-9a5b-1a44912b61af)# Schedule Management Service Based on Timetable Linkage 💻
+# Schedule Management Service Based on Timetable Linkage 💻
 
 **제 1회 오픈소스 SW 아이디어 해커톤 캠프**의 출품작 **일정 테트리스** 프로토타입 입니다.
 
