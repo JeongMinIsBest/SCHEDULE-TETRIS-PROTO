@@ -49,11 +49,13 @@ The exported Excel file containing the user’s class timetable is saved to:
   
 After saving, the browser window closes automatically.
 <br/>
+<br/>
 
 ### 3. Load My Timetable
 
 Clicking **View My Timetable** loads the user’s class timetable from the Excel file into the empty timetable on the main screen.
 The timetable is displayed in **30-minute intervals**, matching the format used by the official Oasis system.
+<br/>
 <br/>
 
 ### 4. Load Other Users’ Timetables
@@ -64,6 +66,7 @@ Clicking **Load Other Timetables** allows users to select other users’ timetab
 - Multiple timetables can be layered sequentially  
 - The earliest loaded timetable takes priority  
   (later schedules are not displayed if time conflicts occur)
+<br/>
 <br/>
 
 ### 5. Add a New Schedule
@@ -76,6 +79,7 @@ Clicking an empty time slot adds a **1-hour schedule block**.
   
 No new schedule is added in this case.
 <br/>
+<br/>
 
 ### 6. Delete a Schedule
 
@@ -83,6 +87,7 @@ Newly created schedules can be deleted by clicking on them.
 
 - Clicking the **start time** deletes the schedule in **1-hour units**
 - Clicking **30 minutes before the end time** deletes it in **30-minute units**
+<br/>
 <br/>
 
 ### 7. Export Timetable with Added Schedules
