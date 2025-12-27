@@ -43,11 +43,7 @@ The following process runs automatically:
   
 > Oasis Login → Portal Main Page → Menu Button → One-stop Menu → Student Class Timetable Output → Export to Excel  
   
-The exported Excel file containing the user’s class timetable is saved to:
-  
-`C:\Users\{username}\Downloads`
-  
-After saving, the browser window closes automatically.
+The exported Excel file containing the user’s class timetable is saved to `C:\Users\{username}\Downloads`. After saving, the browser window closes automatically.
 <br/>
 <br/>
 
