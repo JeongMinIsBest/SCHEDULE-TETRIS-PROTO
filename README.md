@@ -32,8 +32,9 @@ The main screen displays an empty timetable along with the following buttons:
 - View My Timetable  
 - Load Other Timetables  
 - Export Timetable  
-<br/>
 
+---
+  
 ### 2. Oasis Login (Student ID / Password)
 
 When the **Oasis Login** button is clicked, a login window appears. Users enter the same student ID and password used for **OASIS (Jeonbuk National University Portal)**.
@@ -43,14 +44,16 @@ The following process runs automatically:
 > Oasis Login → Portal Main Page → Menu Button → One-stop Menu → Student Class Timetable Output → Export to Excel  
   
 The exported Excel file containing the user’s class timetable is saved to `C:\Users\{username}\Downloads`. After saving, the browser window closes automatically.
-<br/>
 
+---
+  
 ### 3. Load My Timetable
 
 Clicking **View My Timetable** loads the user’s class timetable from the Excel file into the empty timetable on the main screen.
 The timetable is displayed in **30-minute intervals**, matching the format used by the official Oasis system.
-<br/>
 
+---
+  
 ### 4. Load Other Users’ Timetables
 
 Clicking **Load Other Timetables** allows users to select other users’ timetable files from a folder.
@@ -59,8 +62,9 @@ Clicking **Load Other Timetables** allows users to select other users’ timetab
 - Multiple timetables can be layered sequentially  
 - The earliest loaded timetable takes priority  
   (later schedules are not displayed if time conflicts occur)
-<br/>
 
+---
+  
 ### 5. Add a New Schedule
 
 Clicking an empty time slot adds a **1-hour schedule block**.
@@ -70,16 +74,18 @@ Clicking an empty time slot adds a **1-hour schedule block**.
   > “This time slot already contains a class schedule!”
   
 No new schedule is added in this case.
-<br/>
 
+---
+  
 ### 6. Delete a Schedule
 
 Newly created schedules can be deleted by clicking on them.
 
 - Clicking the **start time** deletes the schedule in **1-hour units**
 - Clicking **30 minutes before the end time** deletes it in **30-minute units**
-<br/>
 
+---
+  
 ### 7. Export Timetable with Added Schedules
 
 Clicking **Export Timetable** saves the timetable—including newly added schedules as an Excel file.
