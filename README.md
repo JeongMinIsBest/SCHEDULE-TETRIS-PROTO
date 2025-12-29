@@ -114,6 +114,6 @@ https://github.com/GoogleChromeLabs/chrome-for-testing/blob/main/data/latest-ver
 
 - 👩‍💻 Developers: **Sehyun Kim**, **Jeongmin Lim**
 - 🎨 Designer: **Minkyung Kim**
-- 🗓 Development Period: **2023 December 1 – 2023 December 3 (3 days total)**
+- 🗓 Development Period: **December 1, 2023 – December 3, 2023 (3 days total)**
 <br/>
 <br/>
